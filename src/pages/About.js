@@ -12,7 +12,7 @@ function About() {
                 <div class="row align-items-center flex-row-reverse">
                     <div class="col-lg-6">
                         <div class="about-avatar">
-                            <img class="" src="https://lh3.google.com/u/2/d/14ECfU6rcy-XthD0dxo8tgDjYz7oIjufV=w4096-h1986-iv1" title="" alt=""></img>
+                            <img class="" src={require('../assets/Shehmir.png')} title="" alt=""></img>
                             {/* <img class="" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png?20150327203541" title="" alt=""></img> */}
                         </div>
                     </div>
