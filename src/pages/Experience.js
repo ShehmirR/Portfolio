@@ -7,7 +7,7 @@ function Experience() {
             <ul class="grey-bg">
                 <li>
                     <article>
-                        <a rel="noopener noreferrer" href="#home" class="grid p-4 overflow-hidden md:grid-cols-5 rounded-xl lg:p-6 xl:grid-cols-12 hover:bg-gray-900">
+                        <a rel="noopener noreferrer" class="grid p-4 overflow-hidden md:grid-cols-5 rounded-xl lg:p-6 xl:grid-cols-12 hover:bg-gray-900">
                             <h6 class="mb-1 ml-8 secondary-title theme-color md:col-start-2 md:col-span-4 md:ml-0 xl:col-start-3 xl:col-span-9">JP Morgan Chase & Co. - Software Engineer Internship</h6>
                             <time datetime="" class="medium-color row-start-1 mb-1 md:col-start-1 xl:col-span-2">June 2023 - Present</time>
                             <p class="medium-color ml-8 md:col-start-2 md:col-span-4 xl:col-start-3 xl:col-span-9 md:ml-0">
@@ -28,7 +28,7 @@ function Experience() {
                 </li>
                 <li>
                     <article>
-                        <a rel="noopener noreferrer" href="#home" class="grid p-4 overflow-hidden md:grid-cols-5 rounded-xl lg:p-6 xl:grid-cols-12 hover:bg-gray-900">
+                        <a rel="noopener noreferrer" class="grid p-4 overflow-hidden md:grid-cols-5 rounded-xl lg:p-6 xl:grid-cols-12 hover:bg-gray-900">
                             <h6 class="mb-1 ml-8 secondary-title theme-color md:col-start-2 md:col-span-4 md:ml-0 xl:col-start-3 xl:col-span-9">Fluid Group LLC - Co-Owner & Full Stack Engineer</h6>
                             <time datetime="" class="medium-color row-start-1 mb-1 md:col-start-1 xl:col-span-2">Nov 2020 – July 2022</time>
                             <p class="medium-color ml-8 md:col-start-2 md:col-span-4 xl:col-start-3 xl:col-span-9 md:ml-0">
@@ -49,7 +49,7 @@ function Experience() {
                 </li>
                 <li>
                     <article>
-                        <a rel="noopener noreferrer" href="#home" class="grid p-4 overflow-hidden md:grid-cols-5 rounded-xl lg:p-6 xl:grid-cols-12 hover:bg-gray-900">
+                        <a rel="noopener noreferrer" class="grid p-4 overflow-hidden md:grid-cols-5 rounded-xl lg:p-6 xl:grid-cols-12 hover:bg-gray-900">
                             <h6 class="mb-1 ml-8 secondary-title theme-color md:col-start-2 md:col-span-4 md:ml-0 xl:col-start-3 xl:col-span-9">Marketing Brainology - Marketing Specialist</h6>
                             <time datetime="" class="medium-color row-start-1 mb-1 md:col-start-1 xl:col-span-2">July 2019 - Mar 2020</time>
                             <p class="medium-color ml-8 md:col-start-2 md:col-span-4 xl:col-start-3 xl:col-span-9 md:ml-0">
@@ -68,7 +68,7 @@ function Experience() {
             <ul class="grey-bg">
                 <li>
                     <article>
-                        <a rel="noopener noreferrer" href="#home" class="grid p-4 overflow-hidden md:grid-cols-5 rounded-xl lg:p-6 xl:grid-cols-12 hover:bg-gray-900">
+                        <a rel="noopener noreferrer" class="grid p-4 overflow-hidden md:grid-cols-5 rounded-xl lg:p-6 xl:grid-cols-12 hover:bg-gray-900">
                             <h6 class="mb-1 ml-8 secondary-title theme-color md:col-start-2 md:col-span-4 md:ml-0 xl:col-start-3 xl:col-span-9">University of Texas at Dallas - B.S. Computer Science</h6>
                             <time datetime="" class="medium-color row-start-1 mb-1 md:col-start-1 xl:col-span-2">Aug 2020 - May 2024</time>
                             <p class="medium-color ml-8 md:col-start-2 md:col-span-4 xl:col-start-3 xl:col-span-9 md:ml-0">

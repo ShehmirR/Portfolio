@@ -98,6 +98,10 @@ h3 {
   margin-left: auto;
 }
 
+.icon {
+  display: none;
+}
+
 header::after {
   content: "";
   display: table;
@@ -116,7 +120,7 @@ nav ul {
 
 nav li {
   display: inline-block;
-  margin-left: 70px;
+  margin-left: 6vw;
   padding-top: 20px;
   padding-bottom: 20px;
   position: relative;
@@ -256,10 +260,6 @@ nav a:hover::before {
 .btn--outline:hover {
   color: var(--light-grey) !important;
   background-color: var(--clr-primary);
-}
-
-.home_btns {
-  margin-top: 10px;
 }
 
 /* About Page */
@@ -552,4 +552,14 @@ nav a:hover::before {
 .disabled {
   pointer-events: none;
   cursor: revert;
+}
+
+@media screen and (max-width: 600px) {
+  .about-avatar {
+    text-align: -webkit-center;
+  }
+  .aboutMe {
+    /* align-items: center; */
+    text-align: center;
+  }
 }

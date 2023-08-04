@@ -49,8 +49,6 @@ function App() {
       </div>
 
       <Footer />
-
-      <script src="./assets/srollJS.js"></script>
     </div>
   )
 }

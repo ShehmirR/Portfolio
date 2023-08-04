@@ -17,8 +17,8 @@ function About() {
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <div class="about-text go-to" class="">
-                            <h3 class="light-color">About Me</h3>
+                        <div class="">
+                            <h3 class="light-color aboutMe">About Me</h3>
                             <h6 class="light-color lead">Computer Science major from Plano, Texas</h6>
                             <p class="light-color">Aspiring software developer studying at the University of Texas at Dallas. 
                                 Hope to change the standard of development and user experience through programming. 
